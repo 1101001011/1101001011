@@ -3,6 +3,7 @@
 - 🌱 I'm Learning Web
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Web3
+- 📫 How to reach me: send me an email over at brileyforbusiness@gmail.com
 
 ### Languages and Tools:
 
