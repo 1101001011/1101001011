@@ -1,6 +1,5 @@
 ## Hi there, I'm Briley 👋 
 
-- 🌱 I'm Learning Web
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Web3
 - 📫 How to reach me: brileyforbusiness@gmail.com
